@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "uk-UA",
-    baseUrl: "avrocc.github.io/kb_avro_cc",
+    baseUrl: "kb.avro.cc",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
